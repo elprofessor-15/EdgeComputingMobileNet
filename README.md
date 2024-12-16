@@ -21,3 +21,6 @@ This project demonstrates how to train a MobileNet-based model on the CIFAR-10 d
 ```bash
 git clone https://github.com/yourusername/Edge-Computing-MobileNet.git
 cd Edge-Computing-MobileNet
+2. Install Dependencies
+bash
+!pip install tensorflow tensorflow-federated numpy matplotlib
